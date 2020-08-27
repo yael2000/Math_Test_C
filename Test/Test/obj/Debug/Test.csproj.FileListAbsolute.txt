@@ -1,0 +1,77 @@
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL.mdf
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL_log.ldf
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\Test.exe
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\Test.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.xml
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.exe
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\BL.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\BL.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\BL.dll.config
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\DAL.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll.config
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\Test\obj\Debug\Test.Form2.resources
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL.mdf
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL_log.ldf
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\BL.dll
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.dll
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\BL.pdb
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\BL.dll.config
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.xml
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\DAL.pdb
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll.config
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.exe
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.pdb
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\Test.exe.config
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\Test.exe
+C:\לימודים\C# משימת הגשה\Test\Test\bin\Debug\Test.pdb
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.login.resources
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.test.resources
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.wellcome.resources
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.End.resources
+C:\לימודים\C# משימת הגשה\Test\Test\obj\Debug\Test.showMarks.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL.mdf
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\Students_Marks_SQL_log.ldf
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\Test.exe.config
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\Test.exe
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\Test.pdb
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\BL.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\BL.pdb
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\BL.dll.config
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\DAL.pdb
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\DAL.dll.config
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.xml
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.End.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.login.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.showMarks.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.test.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.wellcome.resources
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.exe
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\Test\obj\Debug\Test.pdb

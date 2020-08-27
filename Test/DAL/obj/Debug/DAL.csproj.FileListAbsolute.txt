@@ -1,0 +1,41 @@
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\DAL.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\obj\Debug\DAL.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\obj\Debug\DAL.pdb
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL.mdf
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL_log.ldf
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll.config
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Rina Saruri\Desktop\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL.mdf
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL_log.ldf
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll.config
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\DAL.pdb
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.dll
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.xml
+C:\לימודים\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\לימודים\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\לימודים\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\לימודים\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\לימודים\C# משימת הגשה\Test\DAL\obj\Debug\DAL.dll
+C:\לימודים\C# משימת הגשה\Test\DAL\obj\Debug\DAL.pdb
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL.mdf
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\Students_Marks_SQL_log.ldf
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll.config
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\DAL.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\DAL.pdb
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.xml
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\obj\Debug\DAL.dll
+C:\לימודים\תיק עבודות\C# משימת הגשה\Test\DAL\obj\Debug\DAL.pdb
